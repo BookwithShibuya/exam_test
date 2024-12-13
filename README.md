@@ -1,3 +1,1 @@
- # Project สร้างระบบ Point ทั้ง Frontend และ Backend เป็นระบบทม่ีกีารกดแลกรบัสทิธต่างๆ และมีการตัดคะแนน ิ์ Point
-
-[Uploading สร้างระบบ-Point-ทั้ง-Frontend-และ-Backend-API-Keptpoint.pdf…]()
+# Exam Test From CLICKNEXT COMPANY LIMITED
